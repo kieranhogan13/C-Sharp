@@ -1,0 +1,10 @@
+C:\Users\Kieran\Desktop\DANI_C12561353\DANI\DANI\bin\Debug\DANI.exe
+C:\Users\Kieran\Desktop\DANI_C12561353\DANI\DANI\bin\Debug\DANI.pdb
+C:\Users\Kieran\Desktop\DANI_C12561353\DANI\DANI\obj\x86\Debug\DANI.exe
+C:\Users\Kieran\Desktop\DANI_C12561353\DANI\DANI\obj\x86\Debug\DANI.pdb
+C:\Users\Kieran\Desktop\DANI_C12561353\DANI\DANI\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Kieran\Desktop\DANI_C12561353\DANI\DANI\obj\x86\Debug\DANI.csproj.ResolveComReference.cache
+C:\Users\Kieran\Google Drive\College\Year 2\Object Oriented Progamming\DANI_C12561353\DANI\DANI\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Kieran\Google Drive\College\Year 2\Object Oriented Progamming\DANI_C12561353\DANI\DANI\obj\x86\Debug\DANI.csproj.ResolveComReference.cache
+C:\Users\Kieran\Google Drive\College\Year 2\Object Oriented Progamming\DANI_C12561353\DANI\DANI\obj\x86\Debug\DANI.exe
+C:\Users\Kieran\Google Drive\College\Year 2\Object Oriented Progamming\DANI_C12561353\DANI\DANI\obj\x86\Debug\DANI.pdb
